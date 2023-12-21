@@ -1,0 +1,35 @@
+// Shape.123 genrated by blender2ogre 0.6.0
+
+material Shape.123 
+{
+    receive_shadows on 
+
+    technique
+    {
+        pass Shape.123
+        {
+            ambient 0.21760001506805438 0.057599998378753625 0.2783999961376189 0.5
+            diffuse 0.5440000295639038 0.14399999380111694 0.6959999799728394 0.5
+            specular 0.25 0.25 0.25 0.5 51.25
+            emissive 0.0 0.0 0.0 0.5
+
+            alpha_to_coverage off
+            colour_write on
+            cull_hardware clockwise
+            depth_check on
+            depth_func less_equal
+            depth_write on
+            illumination_stage 
+            light_clip_planes off
+            light_scissor off
+            lighting on
+            normalise_normals off
+            polygon_mode solid
+            scene_blend one zero
+            scene_blend_op add
+            shading gouraud
+            transparent_sorting on
+
+        }
+    }
+}

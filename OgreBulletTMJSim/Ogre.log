@@ -1,0 +1,455 @@
+17:55:44: Creating resource group General
+17:55:44: Creating resource group Internal
+17:55:44: Creating resource group Autodetect
+17:55:44: SceneManagerFactory for type 'DefaultSceneManager' registered.
+17:55:44: Registering ResourceManager for type Material
+17:55:44: Registering ResourceManager for type Mesh
+17:55:44: Registering ResourceManager for type Skeleton
+17:55:44: MovableObjectFactory for type 'ParticleSystem' registered.
+17:55:44: ArchiveFactory for archive type FileSystem registered.
+17:55:44: ArchiveFactory for archive type Zip registered.
+17:55:44: ArchiveFactory for archive type EmbeddedZip registered.
+17:55:44: DDS codec registering
+17:55:44: FreeImage version: 3.15.3
+17:55:44: This program uses FreeImage, a free, open source image library supporting all common bitmap formats. See http://freeimage.sourceforge.net for details
+17:55:44: Supported formats: bmp,ico,jpg,jif,jpeg,jpe,jng,koa,iff,lbm,mng,pbm,pbm,pcd,pcx,pgm,pgm,png,ppm,ppm,ras,tga,targa,tif,tiff,wap,wbmp,wbm,psd,cut,xbm,xpm,gif,hdr,g3,sgi,exr,j2k,j2c,jp2,pfm,pct,pict,pic
+17:55:44: Registering ResourceManager for type HighLevelGpuProgram
+17:55:44: Registering ResourceManager for type Compositor
+17:55:44: MovableObjectFactory for type 'Entity' registered.
+17:55:44: MovableObjectFactory for type 'Light' registered.
+17:55:44: MovableObjectFactory for type 'BillboardSet' registered.
+17:55:44: MovableObjectFactory for type 'ManualObject' registered.
+17:55:44: MovableObjectFactory for type 'BillboardChain' registered.
+17:55:44: MovableObjectFactory for type 'RibbonTrail' registered.
+17:55:44: Loading library C:\Dev\libs\ogre\bin\release\RenderSystem_Direct3D9
+17:55:44: Installing plugin: D3D9 RenderSystem
+17:55:44: D3D9 : Direct3D9 Rendering Subsystem created.
+17:55:44: D3D9: Driver Detection Starts
+17:55:44: D3D9: Driver Detection Ends
+17:55:44: Plugin successfully installed
+17:55:44: Loading library C:\Dev\libs\ogre\bin\release\RenderSystem_Direct3D11
+17:55:44: Installing plugin: D3D11 RenderSystem
+17:55:44: D3D11 : Direct3D11 Rendering Subsystem created.
+17:55:44: D3D11: Driver Detection Starts
+17:55:44: D3D11: Driver Detection Ends
+17:55:44: Plugin successfully installed
+17:55:44: Loading library C:\Dev\libs\ogre\bin\release\RenderSystem_GL
+17:55:44: Installing plugin: GL RenderSystem
+17:55:44: OpenGL Rendering Subsystem created.
+17:55:44: Plugin successfully installed
+17:55:44: Loading library C:\Dev\libs\ogre\bin\release\Plugin_CgProgramManager
+17:55:44: Installing plugin: Cg Program Manager
+17:55:44: Plugin successfully installed
+17:55:44: Loading library C:\Dev\libs\ogre\bin\release\Plugin_OctreeSceneManager
+17:55:44: Installing plugin: Octree Scene Manager
+17:55:44: Plugin successfully installed
+17:55:44: *-*-* OGRE Initialising
+17:55:44: *-*-* Version 1.9.0 (Ghadamon)
+17:55:44: Creating resource group Fonts
+17:55:44: Added resource location 'C:/VSProjectsC++/OgreBulletTMJSim/OgreBulletTMJSim/cegui/fonts' of type 'FileSystem' to resource group 'Fonts'
+17:55:44: Added resource location 'C:/VSProjectsC++/OgreBulletTMJSim/OgreBulletTMJSim/simmeshes' of type 'FileSystem' to resource group 'General'
+17:55:44: Added resource location 'C:/VSProjectsC++/OgreBulletTMJSim/OgreBulletTMJSim/simmeshes/materials' of type 'FileSystem' to resource group 'General'
+17:55:44: Creating resource group Imagesets
+17:55:44: Added resource location 'C:/VSProjectsC++/OgreBulletTMJSim/OgreBulletTMJSim/cegui/imagesets' of type 'FileSystem' to resource group 'Imagesets'
+17:55:44: Creating resource group Layouts
+17:55:44: Added resource location 'C:/VSProjectsC++/OgreBulletTMJSim/OgreBulletTMJSim/cegui/layouts' of type 'FileSystem' to resource group 'Layouts'
+17:55:44: Added resource location 'C:/VSProjectsC++/OgreBulletTMJSim/OgreBulletTMJSim/cegui' of type 'FileSystem' to resource group 'Layouts'
+17:55:44: Creating resource group LookNFeel
+17:55:44: Added resource location 'C:/VSProjectsC++/OgreBulletTMJSim/OgreBulletTMJSim/cegui/looknfeel' of type 'FileSystem' to resource group 'LookNFeel'
+17:55:44: Creating resource group Schemes
+17:55:44: Added resource location 'C:/VSProjectsC++/OgreBulletTMJSim/OgreBulletTMJSim/cegui/schemes' of type 'FileSystem' to resource group 'Schemes'
+17:55:44: Parsing scripts for resource group Autodetect
+17:55:44: Finished parsing scripts for resource group Autodetect
+17:55:44: Creating resources for group Autodetect
+17:55:44: All done
+17:55:44: Parsing scripts for resource group Fonts
+17:55:44: Finished parsing scripts for resource group Fonts
+17:55:44: Creating resources for group Fonts
+17:55:44: All done
+17:55:44: Parsing scripts for resource group General
+17:55:44: Parsing script cranio-dec.material
+17:55:44: Parsing script cranio.material
+17:55:44: Parsing script mandibula-dec.material
+17:55:44: Parsing script mandibula.material
+17:55:44: Parsing script Shape.001.material
+17:55:44: Parsing script Shape.002.material
+17:55:44: Parsing script Shape.003.material
+17:55:44: Parsing script Shape.004.material
+17:55:44: Parsing script Shape.005.material
+17:55:44: Parsing script Shape.006.material
+17:55:44: Parsing script Shape.007.material
+17:55:44: Parsing script Shape.008.material
+17:55:44: Parsing script Shape.009.material
+17:55:44: Parsing script Shape.010.material
+17:55:44: Parsing script Shape.011.material
+17:55:44: Parsing script Shape.012.material
+17:55:44: Parsing script Shape.013.material
+17:55:44: Parsing script Shape.014.material
+17:55:44: Parsing script Shape.015.material
+17:55:44: Parsing script Shape.016.material
+17:55:44: Parsing script Shape.017.material
+17:55:44: Parsing script Shape.018.material
+17:55:44: Parsing script Shape.019.material
+17:55:44: Parsing script Shape.020.material
+17:55:44: Parsing script Shape.021.material
+17:55:44: Parsing script Shape.022.material
+17:55:44: Parsing script Shape.023.material
+17:55:44: Parsing script Shape.024.material
+17:55:44: Parsing script Shape.025.material
+17:55:44: Parsing script Shape.026.material
+17:55:44: Parsing script Shape.027.material
+17:55:44: Parsing script Shape.028.material
+17:55:44: Parsing script Shape.029.material
+17:55:44: Parsing script Shape.030.material
+17:55:44: Parsing script Shape.031.material
+17:55:44: Parsing script Shape.032.material
+17:55:44: Parsing script Shape.033.material
+17:55:44: Parsing script Shape.034.material
+17:55:44: Parsing script Shape.035.material
+17:55:44: Parsing script Shape.036.material
+17:55:44: Parsing script Shape.037.material
+17:55:45: Parsing script Shape.038.material
+17:55:45: Parsing script Shape.039.material
+17:55:45: Parsing script Shape.040.material
+17:55:45: Parsing script Shape.041.material
+17:55:45: Parsing script Shape.042.material
+17:55:45: Parsing script Shape.043.material
+17:55:45: Parsing script Shape.044.material
+17:55:45: Parsing script Shape.045.material
+17:55:45: Parsing script Shape.046.material
+17:55:45: Parsing script Shape.047.material
+17:55:45: Parsing script Shape.048.material
+17:55:45: Parsing script Shape.049.material
+17:55:45: Parsing script Shape.050.material
+17:55:45: Parsing script Shape.051.material
+17:55:45: Parsing script Shape.052.material
+17:55:45: Parsing script Shape.053.material
+17:55:45: Parsing script Shape.054.material
+17:55:45: Parsing script Shape.055.material
+17:55:45: Parsing script Shape.056.material
+17:55:45: Parsing script Shape.057.material
+17:55:45: Parsing script Shape.058.material
+17:55:45: Parsing script Shape.059.material
+17:55:45: Parsing script Shape.060.material
+17:55:45: Parsing script Shape.061.material
+17:55:45: Parsing script Shape.062.material
+17:55:45: Parsing script Shape.063.material
+17:55:45: Parsing script Shape.064.material
+17:55:45: Parsing script Shape.065.material
+17:55:45: Parsing script Shape.066.material
+17:55:45: Parsing script Shape.067.material
+17:55:45: Parsing script Shape.068.material
+17:55:45: Parsing script Shape.069.material
+17:55:45: Parsing script Shape.070.material
+17:55:45: Parsing script Shape.071.material
+17:55:45: Parsing script Shape.072.material
+17:55:45: Parsing script Shape.073.material
+17:55:45: Parsing script Shape.074.material
+17:55:45: Parsing script Shape.075.material
+17:55:45: Parsing script Shape.076.material
+17:55:45: Parsing script Shape.077.material
+17:55:45: Parsing script Shape.078.material
+17:55:45: Parsing script Shape.079.material
+17:55:45: Parsing script Shape.080.material
+17:55:45: Parsing script Shape.081.material
+17:55:45: Parsing script Shape.082.material
+17:55:45: Parsing script Shape.083.material
+17:55:45: Parsing script Shape.084.material
+17:55:45: Parsing script Shape.085.material
+17:55:45: Parsing script Shape.086.material
+17:55:45: Parsing script Shape.087.material
+17:55:45: Parsing script Shape.088.material
+17:55:45: Parsing script Shape.089.material
+17:55:45: Parsing script Shape.090.material
+17:55:45: Parsing script Shape.091.material
+17:55:45: Parsing script Shape.092.material
+17:55:45: Parsing script Shape.093.material
+17:55:45: Parsing script Shape.094.material
+17:55:45: Parsing script Shape.095.material
+17:55:45: Parsing script Shape.096.material
+17:55:45: Parsing script Shape.097.material
+17:55:45: Parsing script Shape.098.material
+17:55:45: Parsing script Shape.099.material
+17:55:45: Parsing script Shape.100.material
+17:55:45: Parsing script Shape.101.material
+17:55:45: Parsing script Shape.102.material
+17:55:45: Parsing script Shape.103.material
+17:55:45: Parsing script Shape.104.material
+17:55:45: Parsing script Shape.105.material
+17:55:45: Parsing script Shape.106.material
+17:55:45: Parsing script Shape.107.material
+17:55:45: Parsing script Shape.108.material
+17:55:45: Parsing script Shape.109.material
+17:55:45: Parsing script Shape.110.material
+17:55:45: Parsing script Shape.111.material
+17:55:45: Parsing script Shape.112.material
+17:55:45: Parsing script Shape.113.material
+17:55:45: Parsing script Shape.114.material
+17:55:45: Parsing script Shape.115.material
+17:55:45: Parsing script Shape.116.material
+17:55:45: Parsing script Shape.117.material
+17:55:45: Parsing script Shape.118.material
+17:55:45: Parsing script Shape.119.material
+17:55:45: Parsing script Shape.120.material
+17:55:45: Parsing script Shape.121.material
+17:55:45: Parsing script Shape.122.material
+17:55:45: Parsing script Shape.123.material
+17:55:45: Parsing script Shape.124.material
+17:55:45: Parsing script Shape.material
+17:55:45: Finished parsing scripts for resource group General
+17:55:45: Creating resources for group General
+17:55:45: All done
+17:55:45: Parsing scripts for resource group Imagesets
+17:55:45: Finished parsing scripts for resource group Imagesets
+17:55:45: Creating resources for group Imagesets
+17:55:45: All done
+17:55:45: Parsing scripts for resource group Internal
+17:55:45: Finished parsing scripts for resource group Internal
+17:55:45: Creating resources for group Internal
+17:55:45: All done
+17:55:45: Parsing scripts for resource group Layouts
+17:55:45: Finished parsing scripts for resource group Layouts
+17:55:45: Creating resources for group Layouts
+17:55:45: All done
+17:55:45: Parsing scripts for resource group LookNFeel
+17:55:45: Finished parsing scripts for resource group LookNFeel
+17:55:45: Creating resources for group LookNFeel
+17:55:45: All done
+17:55:45: Parsing scripts for resource group Schemes
+17:55:45: Finished parsing scripts for resource group Schemes
+17:55:45: Creating resources for group Schemes
+17:55:45: All done
+17:55:45: D3D11 : RenderSystem Option: Allow NVPerfHUD = No
+17:55:45: D3D11 : RenderSystem Option: Driver type = Hardware
+17:55:45: D3D11 : RenderSystem Option: FSAA = 0
+17:55:45: D3D11 : RenderSystem Option: Floating-point mode = Consistent
+17:55:45: D3D11 : RenderSystem Option: Full Screen = Yes
+17:55:45: D3D11 : RenderSystem Option: Information Queue Exceptions Bottom Level = No information queue exceptions
+17:55:45: D3D11 : RenderSystem Option: Max Requested Feature Levels = 11.0
+17:55:45: D3D11 : RenderSystem Option: Min Requested Feature Levels = 9.1
+17:55:45: D3D11 : RenderSystem Option: Rendering Device = AMD Radeon HD 7000 series
+17:55:45: D3D11 : RenderSystem Option: VSync = No
+17:55:45: D3D11 : RenderSystem Option: VSync Interval = 1
+17:55:45: D3D11 : RenderSystem Option: Video Mode = 800 x 600 @ 32-bit colour
+17:55:45: D3D11 : RenderSystem Option: sRGB Gamma Conversion = No
+17:55:45: D3D9 : RenderSystem Option: Allow DirectX9Ex = No
+17:55:45: D3D9 : RenderSystem Option: Allow NVPerfHUD = No
+17:55:45: D3D9 : RenderSystem Option: FSAA = 0
+17:55:45: D3D9 : RenderSystem Option: Fixed Pipeline Enabled = Yes
+17:55:45: D3D9 : RenderSystem Option: Floating-point mode = Consistent
+17:55:45: D3D9 : RenderSystem Option: Full Screen = No
+17:55:45: D3D9 : RenderSystem Option: Multi device memory hint = Use minimum system memory
+17:55:45: D3D9 : RenderSystem Option: Rendering Device = Monitor-1-AMD Radeon HD 7000 series
+17:55:45: D3D9 : RenderSystem Option: Resource Creation Policy = Create on all devices
+17:55:45: D3D9 : RenderSystem Option: Use Multihead = Auto
+17:55:45: D3D9 : RenderSystem Option: VSync = Yes
+17:55:45: D3D9 : RenderSystem Option: VSync Interval = 1
+17:55:45: D3D9 : RenderSystem Option: Video Mode = 1280 x 960 @ 32-bit colour
+17:55:45: D3D9 : RenderSystem Option: sRGB Gamma Conversion = No
+17:55:45: CPU Identifier & Features
+17:55:45: -------------------------
+17:55:45:  *   CPU ID: GenuineIntel: Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz
+17:55:45:  *      SSE: yes
+17:55:45:  *     SSE2: yes
+17:55:45:  *     SSE3: yes
+17:55:45:  *      MMX: yes
+17:55:45:  *   MMXEXT: yes
+17:55:45:  *    3DNOW: no
+17:55:45:  * 3DNOWEXT: no
+17:55:45:  *     CMOV: yes
+17:55:45:  *      TSC: yes
+17:55:45:  *      FPU: yes
+17:55:45:  *      PRO: yes
+17:55:45:  *       HT: no
+17:55:45: -------------------------
+17:55:45: D3D9 : Subsystem Initialising
+17:55:45: Registering ResourceManager for type Texture
+17:55:45: Registering ResourceManager for type GpuProgram
+17:55:45: D3D9RenderSystem::_createRenderWindow "Ogre Bullet Physics TMJ Simulator", 1280x960 windowed  miscParams: FSAA=0 FSAAHint= colourDepth=32 gamma=false monitorIndex=0 useNVPerfHUD=false vsync=true vsyncInterval=1 
+17:55:45: D3D9 : Created D3D9 Rendering Window 'Ogre Bullet Physics TMJ Simulator' : 1280x960, 32bpp
+17:55:45: D3D9: Vertex texture format supported - PF_L8
+17:55:45: D3D9: Vertex texture format supported - PF_L16
+17:55:45: D3D9: Vertex texture format supported - PF_A8
+17:55:45: D3D9: Vertex texture format supported - PF_A4L4
+17:55:45: D3D9: Vertex texture format supported - PF_BYTE_LA
+17:55:45: D3D9: Vertex texture format supported - PF_R5G6B5
+17:55:45: D3D9: Vertex texture format supported - PF_B5G6R5
+17:55:45: D3D9: Vertex texture format supported - PF_A4R4G4B4
+17:55:45: D3D9: Vertex texture format supported - PF_A1R5G5B5
+17:55:45: D3D9: Vertex texture format supported - PF_A8R8G8B8
+17:55:45: D3D9: Vertex texture format supported - PF_B8G8R8A8
+17:55:45: D3D9: Vertex texture format supported - PF_A2R10G10B10
+17:55:45: D3D9: Vertex texture format supported - PF_A2B10G10R10
+17:55:45: D3D9: Vertex texture format supported - PF_DXT1
+17:55:45: D3D9: Vertex texture format supported - PF_DXT2
+17:55:45: D3D9: Vertex texture format supported - PF_DXT3
+17:55:45: D3D9: Vertex texture format supported - PF_DXT4
+17:55:45: D3D9: Vertex texture format supported - PF_DXT5
+17:55:45: D3D9: Vertex texture format supported - PF_FLOAT16_RGB
+17:55:45: D3D9: Vertex texture format supported - PF_FLOAT16_RGBA
+17:55:45: D3D9: Vertex texture format supported - PF_FLOAT32_RGB
+17:55:45: D3D9: Vertex texture format supported - PF_FLOAT32_RGBA
+17:55:45: D3D9: Vertex texture format supported - PF_X8R8G8B8
+17:55:45: D3D9: Vertex texture format supported - PF_X8B8G8R8
+17:55:45: D3D9: Vertex texture format supported - PF_R8G8B8A8
+17:55:45: D3D9: Vertex texture format supported - PF_DEPTH
+17:55:45: D3D9: Vertex texture format supported - PF_SHORT_RGBA
+17:55:45: D3D9: Vertex texture format supported - PF_FLOAT16_R
+17:55:45: D3D9: Vertex texture format supported - PF_FLOAT32_R
+17:55:45: D3D9: Vertex texture format supported - PF_SHORT_GR
+17:55:45: D3D9: Vertex texture format supported - PF_FLOAT16_GR
+17:55:45: D3D9: Vertex texture format supported - PF_FLOAT32_GR
+17:55:45: D3D9: Vertex texture format supported - PF_SHORT_RGB
+17:55:45: D3D9: Vertex texture format supported - PF_PVRTC_RGB2
+17:55:45: D3D9: Vertex texture format supported - PF_PVRTC_RGBA2
+17:55:45: D3D9: Vertex texture format supported - PF_PVRTC_RGB4
+17:55:45: D3D9: Vertex texture format supported - PF_PVRTC_RGBA4
+17:55:45: D3D9: Vertex texture format supported - PF_PVRTC2_2BPP
+17:55:45: D3D9: Vertex texture format supported - PF_PVRTC2_4BPP
+17:55:45: D3D9: Vertex texture format supported - PF_R11G11B10_FLOAT
+17:55:45: D3D9: Vertex texture format supported - PF_R8_UINT
+17:55:45: D3D9: Vertex texture format supported - PF_R8G8_UINT
+17:55:45: D3D9: Vertex texture format supported - PF_R8G8B8_UINT
+17:55:45: D3D9: Vertex texture format supported - PF_R8G8B8A8_UINT
+17:55:45: D3D9: Vertex texture format supported - PF_R16_UINT
+17:55:45: D3D9: Vertex texture format supported - PF_R16G16_UINT
+17:55:45: D3D9: Vertex texture format supported - PF_R16G16B16_UINT
+17:55:45: D3D9: Vertex texture format supported - PF_R16G16B16A16_UINT
+17:55:45: D3D9: Vertex texture format supported - PF_R32_UINT
+17:55:45: D3D9: Vertex texture format supported - PF_R32G32_UINT
+17:55:45: D3D9: Vertex texture format supported - PF_R32G32B32_UINT
+17:55:45: D3D9: Vertex texture format supported - PF_R32G32B32A32_UINT
+17:55:45: D3D9: Vertex texture format supported - PF_R8_SINT
+17:55:45: D3D9: Vertex texture format supported - PF_R8G8_SINT
+17:55:45: D3D9: Vertex texture format supported - PF_R8G8B8_SINT
+17:55:45: D3D9: Vertex texture format supported - PF_R8G8B8A8_SINT
+17:55:45: D3D9: Vertex texture format supported - PF_R16_SINT
+17:55:45: D3D9: Vertex texture format supported - PF_R16G16_SINT
+17:55:45: D3D9: Vertex texture format supported - PF_R16G16B16_SINT
+17:55:45: D3D9: Vertex texture format supported - PF_R16G16B16A16_SINT
+17:55:45: D3D9: Vertex texture format supported - PF_R32_SINT
+17:55:45: D3D9: Vertex texture format supported - PF_R32G32_SINT
+17:55:45: D3D9: Vertex texture format supported - PF_R32G32B32_SINT
+17:55:45: D3D9: Vertex texture format supported - PF_R32G32B32A32_SINT
+17:55:45: D3D9: Vertex texture format supported - PF_R9G9B9E5_SHAREDEXP
+17:55:45: D3D9: Vertex texture format supported - PF_BC4_UNORM
+17:55:45: D3D9: Vertex texture format supported - PF_BC4_SNORM
+17:55:45: D3D9: Vertex texture format supported - PF_BC5_UNORM
+17:55:45: D3D9: Vertex texture format supported - PF_BC5_SNORM
+17:55:45: D3D9: Vertex texture format supported - PF_BC6H_UF16
+17:55:45: D3D9: Vertex texture format supported - PF_BC6H_SF16
+17:55:45: D3D9: Vertex texture format supported - PF_BC7_UNORM
+17:55:45: D3D9: Vertex texture format supported - PF_BC7_UNORM_SRGB
+17:55:45: D3D9: Vertex texture format supported - PF_R8
+17:55:45: D3D9: Vertex texture format supported - PF_RG8
+17:55:45: D3D9: Vertex texture format supported - PF_R8_SNORM
+17:55:45: D3D9: Vertex texture format supported - PF_R8G8_SNORM
+17:55:45: D3D9: Vertex texture format supported - PF_R8G8B8_SNORM
+17:55:45: D3D9: Vertex texture format supported - PF_R8G8B8A8_SNORM
+17:55:45: D3D9: Vertex texture format supported - PF_R16_SNORM
+17:55:45: D3D9: Vertex texture format supported - PF_R16G16_SNORM
+17:55:45: D3D9: Vertex texture format supported - PF_R16G16B16_SNORM
+17:55:45: D3D9: Vertex texture format supported - PF_R16G16B16A16_SNORM
+17:55:45: D3D9: Vertex texture format supported - PF_ETC1_RGB8
+17:55:45: D3D9: Vertex texture format supported - PF_ETC2_RGB8
+17:55:45: D3D9: Vertex texture format supported - PF_ETC2_RGBA8
+17:55:45: D3D9: Vertex texture format supported - PF_ETC2_RGB8A1
+17:55:45: D3D9: Vertex texture format supported - PF_ATC_RGB
+17:55:45: D3D9: Vertex texture format supported - PF_ATC_RGBA_EXPLICIT_ALPHA
+17:55:45: D3D9: Vertex texture format supported - PF_ATC_RGBA_INTERPOLATED_ALPHA
+17:55:45: RenderSystem capabilities
+17:55:45: -------------------------
+17:55:45: RenderSystem Name: Direct3D9 Rendering Subsystem
+17:55:45: GPU Vendor: amd
+17:55:45: Device Name: Monitor-1-AMD Radeon HD 7000 series
+17:55:45: Driver Version: 8.17.10.1404
+17:55:45:  * Fixed function pipeline: yes
+17:55:45:  * Hardware generation of mipmaps: yes
+17:55:45:  * Texture blending: yes
+17:55:45:  * Anisotropic texture filtering: yes
+17:55:45:  * Dot product texture operation: yes
+17:55:45:  * Cube mapping: yes
+17:55:45:  * Hardware stencil buffer: yes
+17:55:45:    - Stencil depth: 8
+17:55:45:    - Two sided stencil support: yes
+17:55:45:    - Wrap stencil values: yes
+17:55:45:  * Hardware vertex / index buffers: yes
+17:55:45:  * 32-bit index buffers: yes
+17:55:45:  * Vertex programs: yes
+17:55:45:  * Number of floating-point constants for vertex programs: 256
+17:55:45:  * Number of integer constants for vertex programs: 16
+17:55:45:  * Number of boolean constants for vertex programs: 16
+17:55:45:  * Fragment programs: yes
+17:55:45:  * Number of floating-point constants for fragment programs: 224
+17:55:45:  * Number of integer constants for fragment programs: 16
+17:55:45:  * Number of boolean constants for fragment programs: 16
+17:55:45:  * Geometry programs: no
+17:55:45:  * Number of floating-point constants for geometry programs: 0
+17:55:45:  * Number of integer constants for geometry programs: 0
+17:55:45:  * Number of boolean constants for geometry programs: 0
+17:55:45:  * Tesselation Hull programs: no
+17:55:45:  * Number of floating-point constants for tesselation hull programs: 0
+17:55:45:  * Number of integer constants for tesselation hull programs: 0
+17:55:45:  * Number of boolean constants for tesselation hull programs: 0
+17:55:45:  * Tesselation Domain programs: no
+17:55:45:  * Number of floating-point constants for tesselation domain programs: 0
+17:55:45:  * Number of integer constants for tesselation domain programs: 0
+17:55:45:  * Number of boolean constants for tesselation domain programs: 0
+17:55:45:  * Compute programs: no
+17:55:45:  * Number of floating-point constants for compute programs: 0
+17:55:45:  * Number of integer constants for compute programs: 0
+17:55:45:  * Number of boolean constants for compute programs: 15
+17:55:45:  * Supported Shader Profiles: hlsl ps_1_1 ps_1_2 ps_1_3 ps_1_4 ps_2_0 ps_2_a ps_2_b ps_2_x ps_3_0 vs_1_1 vs_2_0 vs_2_a vs_2_x vs_3_0
+17:55:45:  * Texture Compression: yes
+17:55:45:    - DXT: yes
+17:55:45:    - VTC: no
+17:55:45:    - PVRTC: no
+17:55:45:    - ATC: no
+17:55:45:    - ETC1: no
+17:55:45:    - ETC2: no
+17:55:45:    - BC4/BC5: no
+17:55:45:    - BC6H/BC7: no
+17:55:45:  * Scissor Rectangle: yes
+17:55:45:  * Hardware Occlusion Query: yes
+17:55:45:  * User clip planes: yes
+17:55:45:  * VET_UBYTE4 vertex element type: yes
+17:55:45:  * Infinite far plane projection: yes
+17:55:45:  * Hardware render-to-texture: yes
+17:55:45:  * Floating point textures: yes
+17:55:45:  * Non-power-of-two textures: yes
+17:55:45:  * 1d textures: yes
+17:55:45:  * Volume textures: yes
+17:55:45:  * Multiple Render Targets: 4
+17:55:45:    - With different bit depths: yes
+17:55:45:  * Point Sprites: yes
+17:55:45:  * Extended point parameters: yes
+17:55:45:  * Max Point Size: 256
+17:55:45:  * Vertex texture fetch: yes
+17:55:45:  * Number of world matrices: 0
+17:55:45:  * Number of texture units: 8
+17:55:45:  * Stencil buffer depth: 8
+17:55:45:  * Number of vertex blend matrices: 0
+17:55:45:    - Max vertex textures: 4
+17:55:45:    - Vertex textures shared: no
+17:55:45:  * Render to Vertex Buffer : no
+17:55:45:  * Hardware Atomic Counters: no
+17:55:45:  * DirectX per stage constants: yes
+17:55:45: ***************************************
+17:55:45: *** D3D9 : Subsystem Initialised OK ***
+17:55:45: ***************************************
+17:55:45: DefaultWorkQueue('Root') initialising on thread 2a88.
+17:55:45: DefaultWorkQueue('Root')::WorkerFunc - thread 19c8 starting.
+17:55:45: Particle Renderer Type 'billboard' registered
+17:55:45: DefaultWorkQueue('Root')::WorkerFunc - thread 2fe8 starting.
+17:55:45: DefaultWorkQueue('Root')::WorkerFunc - thread 910 starting.
+17:55:45: DefaultWorkQueue('Root')::WorkerFunc - thread 14fc starting.
+17:55:45: SceneManagerFactory for type 'OctreeSceneManager' registered.
+17:55:47: Mesh: Loading mandibula-dec.mesh.
+17:55:47: Mesh: Loading merge_mandibula.mesh.
+17:55:47: Mesh: Loading cranio-dec.mesh.
+17:55:47: Mesh: Loading merge_fossa_direita.mesh.
+17:55:47: Mesh: Loading merge_fossa_esquerda.mesh.
+17:55:47: Mesh: Loading merge_dentes.mesh.
+17:55:47: OGRE EXCEPTION(5:ItemIdentityException): SceneNode 'OpenMouth' not found. in SceneManager::getSceneNode at C:/sources/ogre-1.9/OgreMain/src/OgreSceneManager.cpp (line 920)
+17:55:47: Mesh: Loading sphere.mesh.
+17:55:50: *** Initializing OIS ***

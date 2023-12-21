@@ -1,0 +1,10 @@
+# Markups fiducial file version = 4.5
+# CoordinateSystem = 0
+# columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
+vtkMRMLMarkupsFiducialNode_232,31.6286,34.9051,-6.97083,0,0,0,1,1,1,0,R_LAT_PTERYGOID_SUP_ORI-1,,
+vtkMRMLMarkupsFiducialNode_233,31.0307,36.7326,-8.88405,0,0,0,1,1,1,0,R_LAT_PTERYGOID_SUP_ORI-2,,
+vtkMRMLMarkupsFiducialNode_234,30.5524,35.6986,-10.7973,0,0,0,1,1,1,0,R_LAT_PTERYGOID_SUP_ORI-3,,
+vtkMRMLMarkupsFiducialNode_235,30.1937,35.489,-12.4713,0,0,0,1,1,1,0,R_LAT_PTERYGOID_SUP_ORI-4,,
+vtkMRMLMarkupsFiducialNode_236,29.9545,34.3563,-14.265,0,0,0,1,1,1,0,R_LAT_PTERYGOID_SUP_ORI-5,,
+vtkMRMLMarkupsFiducialNode_237,29.4762,31.8406,-16.2978,0,0,0,1,1,1,0,R_LAT_PTERYGOID_SUP_ORI-6,,
+vtkMRMLMarkupsFiducialNode_238,28.9979,30.8096,-18.4502,0,0,0,1,1,1,0,R_LAT_PTERYGOID_SUP_ORI-7,,

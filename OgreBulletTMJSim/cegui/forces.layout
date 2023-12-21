@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GUILayout version="4" >
+    <Window type="Vanilla/FrameWindow" name="FrameWindow" >
+        <Property name="Area" value="{{0,679},{0,34},{0.3,679},{0.3,44}}" />
+        <Window type="Vanilla/FrameColourRect" name="FrameColourRect" >
+            <Property name="ID" value="1" />
+            <Property name="Area" value="{{0,181},{0,0},{1,-17},{1,-13}}" />
+            <Property name="MaxSize" value="{{1,0},{1,0}}" />
+            <Window type="Vanilla/VerticalScrollbar" name="VerticalScrollbar" >
+                <Property name="ID" value="1" />
+                <Property name="Area" value="{{0,19},{0,8},{0,42},{1,-39}}" />
+                <Property name="Rotation" value="w:0 x:0 y:0 z:1" />
+                <Property name="AutoRenderingSurface" value="true" />
+            </Window>
+            <Window type="Vanilla/VerticalScrollbar" name="VerticalScrollbar2" >
+                <Property name="ID" value="2" />
+                <Property name="Area" value="{{0,55},{0,9},{0,78},{1,-37}}" />
+                <Property name="Rotation" value="w:0 x:0 y:0 z:1" />
+                <Property name="AutoRenderingSurface" value="true" />
+            </Window>
+            <Window type="Vanilla/Checkbox" name="Checkbox" >
+                <Property name="ID" value="3" />
+                <Property name="Area" value="{{0,18},{0,158},{0,76},{0,186}}" />
+            </Window>
+        </Window>
+    </Window>
+</GUILayout>

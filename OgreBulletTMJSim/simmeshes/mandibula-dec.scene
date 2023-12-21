@@ -1,0 +1,24 @@
+<scene previous_export_time="1448995237.378659" exported_by="1879766" formatVersion="1.0.1" export_time="1450704880.332061" >
+  <nodes >
+    <node name="mandibula-dec" >
+      <position y="-58.439659" x="2.910610" z="19.005341" />
+      <rotation qx="0.000000" qw="1.000000" qz="-0.000000" qy="0.000000" />
+      <scale y="1.000000" x="1.000000" z="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity name="mandibula-dec" damping_trans="0.03999999910593033" velocity_min="0.0" lock_trans_x="False" friction_z="1.0" inertia_tensor="0.4000000059604645" actor="False" friction_x="1.0" meshFile="mandibula-dec.mesh" lock_trans_y="False" friction_y="1.0" lock_rot_x="False" damping_rot="0.10000000149011612" lock_rot_y="False" ghost="False" lock_trans_z="False" mass="1.0" mass_radius="1.0" lock_rot_z="False" anisotropic_friction="False" physics_type="STATIC" velocity_max="0.0" />
+    </node>
+  </nodes>
+  <externals >
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\mandibula-dec.material" />
+    </item>
+  </externals>
+  <environment >
+    <colourAmbient r="0.0" g="0.0" b="0.0" />
+    <colourBackground r="0.05087608844041824" g="0.05087608844041824" b="0.05087608844041824" />
+    <colourDiffuse r="0.05087608844041824" g="0.05087608844041824" b="0.05087608844041824" />
+  </environment>
+</scene>

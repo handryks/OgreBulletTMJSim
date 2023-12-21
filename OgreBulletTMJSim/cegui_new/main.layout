@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GUILayout version="4" >
+    <Window type="DefaultWindow" name="DefaultWindow" >
+        <Property name="Area" value="{{0,0},{0,0},{1,0},{1,0}}" />
+        <Property name="MaxSize" value="{{1,0},{1,0}}" />
+        <Window type="GWEN/FrameWindow" name="FrameWindow" >
+            <Property name="Area" value="{{0,718},{0,47},{0,1207},{0,410}}" />
+            <Property name="AutoRenderingSurface" value="true" />
+            <AutoWindow namePath="__auto_titlebar__" >
+                <Property name="NonClient" value="true" />
+                <Property name="AlwaysOnTop" value="false" />
+            </AutoWindow>
+            <AutoWindow namePath="__auto_closebutton__" >
+                <Property name="NonClient" value="true" />
+                <Property name="AlwaysOnTop" value="true" />
+            </AutoWindow>
+            <Window type="GWEN/GroupBox" name="GroupBox" >
+                <Property name="Area" value="{{0,344},{0,59},{0,425},{0,303}}" />
+                <Property name="RiseOnClickEnabled" value="false" />
+                <AutoWindow namePath="__auto_contentpane__" >
+                    <Property name="Text" value="MUS 01" />
+                    <Window type="GWEN/VerticalScrollbar" name="VerticalScrollbar" >
+                        <Property name="Area" value="{{0,11},{0,43},{0,27},{0,166}}" />
+                        <Property name="VerticalScrollbar" value="true" />
+                        <AutoWindow namePath="__auto_thumb__" >
+                            <Property name="MouseInputPropagationEnabled" value="true" />
+                        </AutoWindow>
+                    </Window>
+                </AutoWindow>
+            </Window>
+            <Window type="GWEN/VerticalScrollbar" name="VerticalScrollbar" >
+                <Property name="Area" value="{{0,389},{0,90},{0,405},{0,213}}" />
+                <Property name="VerticalScrollbar" value="true" />
+                <AutoWindow namePath="__auto_thumb__" >
+                    <Property name="MouseInputPropagationEnabled" value="true" />
+                </AutoWindow>
+            </Window>
+        </Window>
+    </Window>
+</GUILayout>

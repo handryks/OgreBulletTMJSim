@@ -1,0 +1,12 @@
+# Markups fiducial file version = 4.5
+# CoordinateSystem = 0
+# columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
+vtkMRMLMarkupsFiducialNode_696,-46.2912,8.66778,-42.8311,0,0,0,1,1,1,0,L_MASSETER_DEEP_INS-1,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_697,-47.2395,5.79794,-44.3856,0,0,0,1,1,1,0,L_MASSETER_DEEP_INS-2,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_698,-47.6907,3.16726,-44.6248,0,0,0,1,1,1,0,L_MASSETER_DEEP_INS-3,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_699,-48.6649,-0.18088,-44.5052,0,0,0,1,1,1,0,L_MASSETER_DEEP_INS-4,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_700,-48.7355,-3.17029,-43.6682,0,0,0,1,1,1,0,L_MASSETER_DEEP_INS-5,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_701,-48.5217,-5.56182,-42.4724,0,0,0,1,1,1,0,L_MASSETER_DEEP_INS-6,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_702,-48.655,-6.75758,-40.32,0,0,0,1,1,1,0,L_MASSETER_DEEP_INS-7,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_703,-48.9883,-7.47504,-37.5698,0,0,0,1,1,1,0,L_MASSETER_DEEP_INS-8,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_704,-50.0498,-7.23589,-34.6999,0,0,0,1,1,1,0,L_MASSETER_DEEP_INS-9,,vtkMRMLModelNode5

@@ -1,0 +1,396 @@
+<scene exported_by="1879766" export_time="1450719920.204069" formatVersion="1.0.1" previous_export_time="1450719903.155932" >
+  <nodes >
+    <node name="merge_mandibula" >
+      <position y="0.000000" x="0.000000" z="-0.000000" />
+      <rotation qx="0.000000" qz="-0.000000" qy="1.000000" qw="-0.000000" />
+      <scale y="1.000000" x="1.000000" z="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity name="merge_mandibula" ghost="False" lock_rot_x="False" damping_trans="0.03999999910593033" lock_trans_y="False" inertia_tensor="0.4000000059604645" friction_z="1.0" velocity_min="0.0" actor="False" physics_type="STATIC" damping_rot="0.10000000149011612" anisotropic_friction="False" meshFile="merge_mandibula.mesh" lock_rot_y="False" friction_x="1.0" mass="1.0" lock_trans_z="False" lock_trans_x="False" mass_radius="1.0" velocity_max="0.0" friction_y="1.0" lock_rot_z="False" />
+    </node>
+  </nodes>
+  <externals >
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.058.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.079.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.009.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.095.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.096.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.074.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.122.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.033.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.040.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.072.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.107.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.047.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.020.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.005.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.113.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.031.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.039.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.046.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.003.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.081.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.016.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.067.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.087.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.048.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.086.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.066.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.092.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.018.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.011.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.023.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.123.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.120.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.089.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.088.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.100.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.030.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.013.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.055.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.111.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.101.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.118.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.002.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.073.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.069.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.064.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.029.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.057.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.050.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.124.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.084.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.070.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.001.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.017.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.035.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.102.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.022.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.065.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.091.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.043.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.110.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.042.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.021.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.004.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.045.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.119.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.061.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.097.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.103.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.037.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.083.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.056.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.027.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.098.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.121.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.019.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.034.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.090.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.068.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.105.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.060.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.076.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.024.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.112.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.082.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.085.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.007.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.010.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.114.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.036.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.109.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.041.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.012.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.078.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.015.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.025.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.032.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.117.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.077.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.116.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.014.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.106.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.038.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.063.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.026.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.104.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.099.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.115.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.006.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.071.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.062.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.054.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.052.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.044.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.051.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.059.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.094.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.049.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.108.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.080.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.028.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.093.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.053.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.008.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\vhacd\Shape.075.material" />
+    </item>
+  </externals>
+  <environment >
+    <colourAmbient g="0.0" r="0.0" b="0.0" />
+    <colourDiffuse g="0.05087608844041824" r="0.05087608844041824" b="0.05087608844041824" />
+    <colourBackground g="0.05087608844041824" r="0.05087608844041824" b="0.05087608844041824" />
+  </environment>
+</scene>

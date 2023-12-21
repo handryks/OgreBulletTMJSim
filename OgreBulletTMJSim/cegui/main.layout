@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GUILayout version="4" >
+    <Window type="DefaultWindow" name="DefaultWindow" >
+        <Property name="Area" value="{{0,0},{0,0},{1,0},{1,0}}" />
+        <Property name="MaxSize" value="{{1,0},{1,0}}" />
+        <Window type="GWEN/Menubar" name="Menubar" >
+            <Property name="Area" value="{{0,0},{0,0},{1,0},{0,20}}" />
+            <Window type="GWEN/MenuItem" name="MenuItem" >
+                <Property name="Area" value="{{0,5},{0,0},{0,114},{0,17}}" />
+                <Property name="Text" value="Simulation" />
+                <Property name="VerticalAlignment" value="Centre" />
+                <Property name="WantsMultiClickEvents" value="false" />
+                <Window type="GWEN/PopupMenu" name="PopupMenu" >
+                    <Property name="Area" value="{{0,0},{0,25},{0,176},{0,148.218}}" />
+                    <Property name="Visible" value="false" />
+                    <Property name="ItemSpacing" value="2" />
+                    <Property name="ClippedByParent" value="false" />
+                    <Property name="AutoResizeEnabled" value="true" />
+                    <Window type="GWEN/MenuItem" name="MenuItem" >
+                        <Property name="ID" value="1" />
+                        <Property name="Area" value="{{0,5},{0,5},{0,171},{0,22}}" />
+                        <Property name="Text" value="Start Simulation" />
+                        <Property name="WantsMultiClickEvents" value="false" />
+                    </Window>
+                    <Window type="GWEN/MenuItem" name="MenuItem2" >
+                        <Property name="ID" value="2" />
+                        <Property name="Area" value="{{0,5},{0,24},{0,171},{0,41}}" />
+                        <Property name="Text" value="Stop Simulation" />
+                        <Property name="WantsMultiClickEvents" value="false" />
+                    </Window>
+                    <Window type="GWEN/MenuItem" name="MenuItem3" >
+                        <Property name="ID" value="3" />
+                        <Property name="Area" value="{{0,5},{0,43},{0,171},{0,60}}" />
+                        <Property name="Text" value="Restart Simulation" />
+                        <Property name="WantsMultiClickEvents" value="false" />
+                    </Window>
+                    <Window type="GWEN/MenuItem" name="MenuItem4" >
+                        <Property name="ID" value="4" />
+                        <Property name="Area" value="{{0,5},{0,62},{0,171},{0,79}}" />
+                        <Property name="Text" value="Setup Simulation" />
+                        <Property name="WantsMultiClickEvents" value="false" />
+                    </Window>
+                    <Window type="GWEN/MenuItem" name="MenuItem5" >
+                        <Property name="ID" value="5" />
+                        <Property name="Area" value="{{0,5},{0,81},{0,171},{0,98}}" />
+                        <Property name="Text" value="Save Params" />
+                        <Property name="WantsMultiClickEvents" value="false" />
+                    </Window>
+                    <Window type="GWEN/MenuItem" name="MenuItem6" >
+                        <Property name="ID" value="99" />
+                        <Property name="Area" value="{{0,5},{0,100},{0,171},{0,117}}" />
+                        <Property name="Text" value="Exit" />
+                        <Property name="WantsMultiClickEvents" value="false" />
+                    </Window>
+                </Window>
+            </Window>
+            <Window type="GWEN/MenuItem" name="MenuItem2" >
+                <Property name="Area" value="{{0,124},{0,0},{0,217},{0,17}}" />
+                <Property name="Text" value="Controls" />
+                <Property name="VerticalAlignment" value="Centre" />
+                <Property name="WantsMultiClickEvents" value="false" />
+                <Window type="GWEN/PopupMenu" name="PopupMenu" >
+                    <Property name="Area" value="{{0,0},{0,25},{0,185},{0,109.812}}" />
+                    <Property name="Visible" value="false" />
+                    <Property name="ItemSpacing" value="2" />
+                    <Property name="ClippedByParent" value="false" />
+                    <Property name="AutoResizeEnabled" value="true" />
+                    <Window type="GWEN/MenuItem" name="MenuItem" >
+                        <Property name="ID" value="6" />
+                        <Property name="Area" value="{{0,5},{0,5},{0,180},{0,22}}" />
+                        <Property name="Text" value="Muscle Controls" />
+                        <Property name="WantsMultiClickEvents" value="false" />
+                    </Window>
+                    <Window type="GWEN/MenuItem" name="MenuItem2" >
+                        <Property name="ID" value="7" />
+                        <Property name="Area" value="{{0,5},{0,24},{0,180},{0,41}}" />
+                        <Property name="Text" value="Ligaments Controls" />
+                        <Property name="WantsMultiClickEvents" value="false" />
+                    </Window>
+                    <Window type="GWEN/MenuItem" name="MenuItem3" >
+                        <Property name="ID" value="8" />
+                        <Property name="Area" value="{{0,5},{0,43},{0,180},{0,60}}" />
+                        <Property name="Text" value="SoftBody Controls" />
+                        <Property name="WantsMultiClickEvents" value="false" />
+                    </Window>
+                    <Window type="GWEN/MenuItem" name="MenuItem4" >
+                        <Property name="ID" value="9" />
+                        <Property name="Area" value="{{0,5},{0,62},{0,180},{0,79}}" />
+                        <Property name="Text" value="Masses Controls" />
+                        <Property name="WantsMultiClickEvents" value="false" />
+                    </Window>
+                </Window>
+            </Window>
+            <Window type="GWEN/MenuItem" name="MenuItem3" >
+                <Property name="Area" value="{{0,227},{0,0},{0,311},{0,17}}" />
+                <Property name="Text" value="Record" />
+                <Property name="VerticalAlignment" value="Centre" />
+                <Property name="WantsMultiClickEvents" value="false" />
+                <Window type="GWEN/PopupMenu" name="PopupMenu" >
+                    <Property name="Area" value="{{0,0},{0,0},{0,158},{0,46.4061}}" />
+                    <Property name="ItemSpacing" value="2" />
+                    <Property name="ClippedByParent" value="false" />
+                    <Property name="AutoResizeEnabled" value="true" />
+                    <Window type="GWEN/MenuItem" name="MenuItem" >
+                        <Property name="ID" value="10" />
+                        <Property name="Area" value="{{0,5},{0,5},{0,153},{0,22}}" />
+                        <Property name="Text" value="Record Position" />
+                        <Property name="WantsMultiClickEvents" value="false" />
+                    </Window>
+                    <Window type="GWEN/MenuItem" name="MenuItem2" >
+                        <Property name="ID" value="11" />
+                        <Property name="Area" value="{{0,5},{0,24},{0,153},{0,41}}" />
+                        <Property name="Text" value="Start Recording" />
+                        <Property name="WantsMultiClickEvents" value="false" />
+                    </Window>
+                </Window>
+            </Window>
+        </Window>
+        <Window type="GWEN/FrameWindow" name="SimulationFrame" >
+            <Property name="Area" value="{{0,10},{0,555},{0,491},{0,786}}" />
+            <Property name="Text" value="Simulation Params" />
+            <Property name="Visible" value="false" />
+            <Property name="AutoRenderingSurface" value="true" />
+            <AutoWindow namePath="__auto_titlebar__" >
+                <Property name="NonClient" value="true" />
+                <Property name="AlwaysOnTop" value="false" />
+            </AutoWindow>
+            <AutoWindow namePath="__auto_closebutton__" >
+                <Property name="NonClient" value="true" />
+                <Property name="AlwaysOnTop" value="true" />
+            </AutoWindow>
+            <Window type="GWEN/GroupBox" name="GroupBox" >
+                <Property name="Area" value="{{0,10},{0,15},{0,460},{0,225}}" />
+                <Property name="RiseOnClickEnabled" value="false" />
+                <AutoWindow namePath="__auto_contentpane__" >
+                    <Window type="GWEN/Editbox" name="Editbox" >
+                        <Property name="ID" value="1" />
+                        <Property name="Area" value="{{0,155},{0,5},{0,205},{0,25}}" />
+                    </Window>
+                    <Window type="GWEN/Label" name="Label" >
+                        <Property name="Area" value="{{0,15},{0,5},{0,143},{0,25}}" />
+                        <Property name="Text" value="Time Step:" />
+                        <Property name="MaxSize" value="{{1,0},{1,0}}" />
+                        <Property name="HorzFormatting" value="RightAligned" />
+                    </Window>
+                    <Window type="GWEN/Label" name="Label2" >
+                        <Property name="Area" value="{{0,15},{0,65},{0,143},{0,85}}" />
+                        <Property name="Text" value="Max Substeps:" />
+                        <Property name="MaxSize" value="{{1,0},{1,0}}" />
+                        <Property name="HorzFormatting" value="RightAligned" />
+                    </Window>
+                    <Window type="GWEN/Editbox" name="Editbox2" >
+                        <Property name="ID" value="2" />
+                        <Property name="Area" value="{{0,155},{0,65},{0,205},{0,85}}" />
+                    </Window>
+                    <Window type="GWEN/Label" name="Label3" >
+                        <Property name="Area" value="{{0,15},{0,95},{0,143},{0,115}}" />
+                        <Property name="Text" value="Fixed Timestep:" />
+                        <Property name="MaxSize" value="{{1,0},{1,0}}" />
+                        <Property name="HorzFormatting" value="RightAligned" />
+                    </Window>
+                    <Window type="GWEN/Editbox" name="Editbox3" >
+                        <Property name="ID" value="3" />
+                        <Property name="Area" value="{{0,155},{0,95},{0,205},{0,115}}" />
+                    </Window>
+                    <Window type="GWEN/Label" name="Label4" >
+                        <Property name="Area" value="{{0,15},{0,35},{0,143},{0,55}}" />
+                        <Property name="Text" value="Solvers" />
+                        <Property name="MaxSize" value="{{1,0},{1,0}}" />
+                        <Property name="HorzFormatting" value="RightAligned" />
+                    </Window>
+                    <Window type="GWEN/Editbox" name="Editbox4" >
+                        <Property name="ID" value="4" />
+                        <Property name="Area" value="{{0,155},{0,35},{0,205},{0,55}}" />
+                    </Window>
+                    <Window type="GWEN/Checkbox" name="Checkbox" >
+                        <Property name="ID" value="5" />
+                        <Property name="Area" value="{{0,235},{0,5},{0,340},{0,25}}" />
+                        <Property name="Text" value="Load discs" />
+                        <Property name="Selected" value="true" />
+                    </Window>
+                    <Window type="GWEN/Checkbox" name="Checkbox2" >
+                        <Property name="ID" value="6" />
+                        <Property name="Area" value="{{0,235},{0,35},{0,390},{0,55}}" />
+                        <Property name="Text" value="Use tetrahedrons" />
+                    </Window>
+                    <Window type="GWEN/Button" name="Button" >
+                        <Property name="ID" value="7" />
+                        <Property name="Area" value="{{0,80},{0,125},{0,205},{0,150}}" />
+                        <Property name="Text" value="Save/Restart" />
+                    </Window>
+                    <Window type="GWEN/Checkbox" name="Checkbox22" >
+                        <Property name="ID" value="7" />
+                        <Property name="Area" value="{{0,235},{0,65},{0,400},{0,85}}" />
+                        <Property name="Text" value="Use soft ligaments" />
+                    </Window>
+                    <Window type="GWEN/Checkbox" name="Checkbox222" >
+                        <Property name="ID" value="8" />
+                        <Property name="Area" value="{{0,235},{0,95},{0,400},{0,115}}" />
+                        <Property name="Text" value="Use high res discs" />
+                    </Window>
+                    <Window type="GWEN/Checkbox" name="Checkbox2222" >
+                        <Property name="ID" value="9" />
+                        <Property name="Area" value="{{0,235},{0,125},{0,400},{0,145}}" />
+                        <Property name="Text" value="Enable gravity" />
+                    </Window>
+                </AutoWindow>
+            </Window>
+        </Window>
+    </Window>
+</GUILayout>

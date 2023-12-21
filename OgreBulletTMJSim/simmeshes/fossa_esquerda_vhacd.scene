@@ -1,0 +1,369 @@
+<scene exported_by="1879766" export_time="1450723309.552915" formatVersion="1.0.1" previous_export_time="0" >
+  <nodes >
+    <node name="merge_fossa_esquerda" >
+      <position y="0.000000" x="0.000000" z="0.000000" />
+      <rotation qx="0.000000" qz="1.000000" qy="0.000000" qw="-0.000000" />
+      <scale y="1.000000" x="1.000000" z="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity name="merge_fossa_esquerda" ghost="False" lock_rot_x="False" damping_trans="0.03999999910593033" lock_trans_y="False" inertia_tensor="0.4000000059604645" friction_z="1.0" velocity_min="0.0" actor="False" physics_type="STATIC" damping_rot="0.10000000149011612" anisotropic_friction="False" meshFile="merge_fossa_esquerda.mesh" lock_rot_y="False" friction_x="1.0" mass="1.0" lock_trans_z="False" lock_trans_x="False" mass_radius="1.0" velocity_max="0.0" friction_y="1.0" lock_rot_z="False" />
+    </node>
+  </nodes>
+  <externals >
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.058.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.079.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.009.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.095.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.096.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.074.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.023.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.033.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.040.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.072.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.107.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.047.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.020.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.005.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.113.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.031.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.039.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.046.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.003.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.081.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.016.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.067.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.087.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.048.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.086.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.066.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.092.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.018.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.115.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.011.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.002.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.017.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.089.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.088.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.078.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.030.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.055.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.111.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.101.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.077.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.073.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.069.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.064.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.029.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.057.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.050.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.065.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.084.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.070.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.001.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.035.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.102.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.022.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.091.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.043.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.110.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.042.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.021.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.004.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.108.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.061.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.097.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.103.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.037.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.083.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.056.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.027.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.098.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.019.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.034.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.090.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.068.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.105.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.060.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.076.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.024.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.112.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.082.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.085.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.007.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.010.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.114.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.036.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.109.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.041.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.012.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.100.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.015.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.025.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.032.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.014.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.106.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.038.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.063.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.026.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.104.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.099.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.013.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.006.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.071.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.062.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.054.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.052.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.044.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.051.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.059.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.094.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.049.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.045.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.080.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.028.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.093.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.053.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.008.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\Users\1879766.IFRR\Documents\medical_images\resampled_04\models5\ogre\fossa_esquerda_vhacd\Shape.075.material" />
+    </item>
+  </externals>
+  <environment >
+    <colourAmbient g="0.0" r="0.0" b="0.0" />
+    <colourDiffuse g="0.05087608844041824" r="0.05087608844041824" b="0.05087608844041824" />
+    <colourBackground g="0.05087608844041824" r="0.05087608844041824" b="0.05087608844041824" />
+  </environment>
+</scene>

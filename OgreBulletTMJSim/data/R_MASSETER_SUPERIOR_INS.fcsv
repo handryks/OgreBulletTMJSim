@@ -1,0 +1,17 @@
+# Markups fiducial file version = 4.5
+# CoordinateSystem = 0
+# columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
+vtkMRMLMarkupsFiducialNode_44,35.5599,10.0916,-70.4578,0,0,0,1,1,1,0,R_MASSETER_SUPERIOR_INS-1,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_45,36.0143,8.55713,-69.4131,0,0,0,1,1,1,0,R_MASSETER_SUPERIOR_INS-2,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_46,36.7161,6.90552,-68.2163,0,0,0,1,1,1,0,R_MASSETER_SUPERIOR_INS-3,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_47,37.1077,5.42044,-67.0801,0,0,0,1,1,1,0,R_MASSETER_SUPERIOR_INS-4,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_48,37.7814,4.11292,-65.681,0,0,0,1,1,1,0,R_MASSETER_SUPERIOR_INS-5,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_49,38.3431,2.47215,-64.8451,0,0,0,1,1,1,0,R_MASSETER_SUPERIOR_INS-6,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_50,38.7092,1.11908,-63.4253,0,0,0,1,1,1,0,R_MASSETER_SUPERIOR_INS-7,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_51,39.0011,-0.770734,-62.1378,0,0,0,1,1,1,0,R_MASSETER_SUPERIOR_INS-8,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_52,39.4479,-2.20156,-61.0411,0,0,0,1,1,1,0,R_MASSETER_SUPERIOR_INS-9,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_53,39.8729,-3.9748,-59.9264,0,0,0,1,1,1,0,R_MASSETER_SUPERIOR_INS-10,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_54,40.0045,-5.53691,-58.8695,0,0,0,1,1,1,0,R_MASSETER_SUPERIOR_INS-11,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_55,40.3167,-7.23736,-57.58,0,0,0,1,1,1,0,R_MASSETER_SUPERIOR_INS-12,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_56,40.0166,-8.88147,-56.4828,0,0,0,1,1,1,0,R_MASSETER_SUPERIOR_INS-13,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_57,39.9396,-10.5978,-55.3556,0,0,0,1,1,1,0,R_MASSETER_SUPERIOR_INS-14,,vtkMRMLModelNode5

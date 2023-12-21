@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<GUILayout version="4" >
+    <Window type="DefaultWindow" name="DefaultWindow" >
+        <Property name="Area" value="{{0,0},{0,0},{1,0},{1,0}}" />
+        <Property name="MaxSize" value="{{1,0},{1,0}}" />
+        <Window type="GWEN/FrameWindow" name="MassesControlFrame" >
+            <Property name="Area" value="{{0,20},{0,410},{0,465},{0,780}}" />
+            <Property name="Text" value="Masses Control" />
+            <Property name="Visible" value="false" />
+            <Property name="AutoRenderingSurface" value="true" />
+            <AutoWindow namePath="__auto_titlebar__" >
+                <Property name="NonClient" value="true" />
+                <Property name="AlwaysOnTop" value="false" />
+            </AutoWindow>
+            <AutoWindow namePath="__auto_closebutton__" >
+                <Property name="NonClient" value="true" />
+                <Property name="AlwaysOnTop" value="true" />
+            </AutoWindow>
+            <Window type="GWEN/GroupBox" name="GroupBox" >
+                <Property name="Area" value="{{0,15},{0,25},{0,290},{0,85}}" />
+                <Property name="Text" value="Mandible mass:" />
+                <Property name="RiseOnClickEnabled" value="false" />
+                <AutoWindow namePath="__auto_contentpane__" >
+                    <Window type="GWEN/HorizontalScrollbar" name="HorizontalScrollbar" >
+                        <Property name="Area" value="{{0,10},{0,10},{0,170},{0,25}}" />
+                        <Property name="StepSize" value="0.001" />
+                        <Property name="DocumentSize" value="1000" />
+                        <AutoWindow namePath="__auto_thumb__" >
+                            <Property name="MouseInputPropagationEnabled" value="true" />
+                        </AutoWindow>
+                    </Window>
+                    <Window type="GWEN/Editbox" name="Editbox" >
+                        <Property name="Area" value="{{0,180},{0,5},{0,250},{0,30}}" />
+                        <Property name="Font" value="DejaVuSans-10-NoScale" />
+                    </Window>
+                </AutoWindow>
+            </Window>
+            <Window type="GWEN/GroupBox" name="GroupBox2" >
+                <Property name="Area" value="{{0,15},{0,110},{0,305},{0,185}}" />
+                <Property name="Text" value="Muscle insertion mass:" />
+                <Property name="RiseOnClickEnabled" value="false" />
+                <AutoWindow namePath="__auto_contentpane__" >
+                    <Window type="GWEN/HorizontalScrollbar" name="HorizontalScrollbar" >
+                        <Property name="Area" value="{{0,15},{0,15},{0,175},{0,30}}" />
+                        <Property name="StepSize" value="0.001" />
+                        <Property name="DocumentSize" value="1000" />
+                        <AutoWindow namePath="__auto_thumb__" >
+                            <Property name="MouseInputPropagationEnabled" value="true" />
+                        </AutoWindow>
+                    </Window>
+                    <Window type="GWEN/Editbox" name="Editbox" >
+                        <Property name="Area" value="{{0,190},{0,10},{0,260},{0,35}}" />
+                    </Window>
+                </AutoWindow>
+            </Window>
+            <Window type="GWEN/GroupBox" name="GroupBox3" >
+                <Property name="Area" value="{{0,15},{0,195},{0,305},{0,270}}" />
+                <Property name="Text" value="Ligament origin mass:" />
+                <Property name="RiseOnClickEnabled" value="false" />
+                <AutoWindow namePath="__auto_contentpane__" >
+                    <Window type="GWEN/HorizontalScrollbar" name="HorizontalScrollbar" >
+                        <Property name="Area" value="{{0,15},{0,15},{0,175},{0,30}}" />
+                        <Property name="StepSize" value="0.001" />
+                        <Property name="DocumentSize" value="1000" />
+                        <AutoWindow namePath="__auto_thumb__" >
+                            <Property name="MouseInputPropagationEnabled" value="true" />
+                        </AutoWindow>
+                    </Window>
+                    <Window type="GWEN/Editbox" name="Editbox" >
+                        <Property name="Area" value="{{0,190},{0,10},{0,260},{0,35}}" />
+                    </Window>
+                </AutoWindow>
+            </Window>
+        </Window>
+    </Window>
+</GUILayout>

@@ -1,0 +1,13 @@
+# Markups fiducial file version = 4.5
+# CoordinateSystem = 0
+# columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
+vtkMRMLMarkupsFiducialNode_585,43.7892,20.8209,-16.5014,0,0,0,1,1,1,0,R_TEMPORALIS_POSTERIOR_INS-1,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_586,43.7892,20.8209,-16.5014,0,0,0,1,1,1,0,R_TEMPORALIS_POSTERIOR_INS-2,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_587,43.61,20.1877,-16.9165,0,0,0,1,1,1,0,R_TEMPORALIS_POSTERIOR_INS-3,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_588,43.61,20.1877,-16.9165,0,0,0,1,1,1,0,R_TEMPORALIS_POSTERIOR_INS-4,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_589,43.5314,19.6117,-17.2846,0,0,0,1,1,1,0,R_TEMPORALIS_POSTERIOR_INS-5,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_590,43.5314,19.6117,-17.2846,0,0,0,1,1,1,0,R_TEMPORALIS_POSTERIOR_INS-6,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_591,43.5162,18.9709,-17.6468,0,0,0,1,1,1,0,R_TEMPORALIS_POSTERIOR_INS-7,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_592,43.5162,18.9709,-17.6468,0,0,0,1,1,1,0,R_TEMPORALIS_POSTERIOR_INS-8,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_593,43.3287,18.4095,-18.0546,0,0,0,1,1,1,0,R_TEMPORALIS_POSTERIOR_INS-9,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_594,43.3287,18.4095,-18.0546,0,0,0,1,1,1,0,R_TEMPORALIS_POSTERIOR_INS-10,,vtkMRMLModelNode5

@@ -1,0 +1,17 @@
+# Markups fiducial file version = 4.5
+# CoordinateSystem = 0
+# columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
+vtkMRMLMarkupsFiducialNode_339,-18.8499,32.0965,-95.7029,0,0,0,1,1,1,0,L_PLATYSMA_INS-1,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_340,-22.0274,29.8764,-94.4642,0,0,0,1,1,1,0,L_PLATYSMA_INS-2,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_341,-24.7813,28.0498,-92.9675,0,0,0,1,1,1,0,L_PLATYSMA_INS-3,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_342,-26.6878,25.9996,-91.4344,0,0,0,1,1,1,0,L_PLATYSMA_INS-4,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_343,-28.5944,24.0833,-90.0932,0,0,0,1,1,1,0,L_PLATYSMA_INS-5,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_344,-29.6535,22.2546,-88.6003,0,0,0,1,1,1,0,L_PLATYSMA_INS-6,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_345,-31.5601,19.3238,-88.5924,0,0,0,1,1,1,0,L_PLATYSMA_INS-7,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_346,-33.0429,17.6777,-87.2069,0,0,0,1,1,1,0,L_PLATYSMA_INS-8,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_347,-34.314,15.5999,-85.298,0,0,0,1,1,1,0,L_PLATYSMA_INS-9,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_348,-35.7968,13.2382,-83.0334,0,0,0,1,1,1,0,L_PLATYSMA_INS-10,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_349,-36.6442,11.2317,-81.4247,0,0,0,1,1,1,0,L_PLATYSMA_INS-11,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_350,-37.4915,9.07404,-79.6541,0,0,0,1,1,1,0,L_PLATYSMA_INS-12,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_351,-38.7625,6.87485,-77.9554,0,0,0,1,1,1,0,L_PLATYSMA_INS-13,,vtkMRMLModelNode5
+vtkMRMLMarkupsFiducialNode_352,-39.398,4.06385,-76.0454,0,0,0,1,1,1,0,L_PLATYSMA_INS-14,,vtkMRMLModelNode5

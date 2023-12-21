@@ -1,0 +1,35 @@
+// Shape.017 genrated by blender2ogre 0.6.0
+
+material Shape.017 
+{
+    receive_shadows on 
+
+    technique
+    {
+        pass Shape.017
+        {
+            ambient 0.14080000133514403 0.19839999971389766 0.18240000281333923 0.5
+            diffuse 0.35199999809265137 0.4959999918937683 0.4560000002384186 0.5
+            specular 0.25 0.25 0.25 0.5 51.25
+            emissive 0.0 0.0 0.0 0.5
+
+            alpha_to_coverage off
+            colour_write on
+            cull_hardware clockwise
+            depth_check on
+            depth_func less_equal
+            depth_write on
+            illumination_stage 
+            light_clip_planes off
+            light_scissor off
+            lighting on
+            normalise_normals off
+            polygon_mode solid
+            scene_blend one zero
+            scene_blend_op add
+            shading gouraud
+            transparent_sorting on
+
+        }
+    }
+}
